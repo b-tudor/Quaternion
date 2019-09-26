@@ -28,6 +28,9 @@
 #pragma once
 #ifndef QUATERNION_H
 #define QUATERNION_H
+
+// Certain functions rely on the Vector3D class located at:
+// https://github.com/b-tudor/Vector3D.git
 #include "Vector3D.h"
 
 
